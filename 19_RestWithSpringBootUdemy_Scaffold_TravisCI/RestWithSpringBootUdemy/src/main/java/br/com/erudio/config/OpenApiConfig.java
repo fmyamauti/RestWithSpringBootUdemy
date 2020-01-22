@@ -21,7 +21,7 @@ public class OpenApiConfig {
 		return new OpenAPI()
 				.components(new Components())				
 				.info(new Info()
-						.title("RESTful API With Spring Boot 2.2.2 - Foo Bar")
+						.title("RESTful API With Spring Boot 2.2.2 - Alterado")
 						.description("API for learning purposes")
 						.version("V1")
 						.termsOfService("Terms Of Service URL")
